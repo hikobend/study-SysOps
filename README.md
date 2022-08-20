@@ -1,5 +1,9 @@
 ## #4
 
+・EBS-Backed AMI, Instance Store-Backed AMI
+
+EBS-Backed AMIは、EBSベースのAMIによって作成される。Instance Store-Backed AMIは、S3ベースのAMIによって作成される。
+
 ・読み取りパフォーマンスの向上
 
 CloudFrontを使用すると、リクエストをキャッシュすることで負荷を軽減。RDSリードレプリカは読み込み負荷を軽減。ElasticCacheは頻繁に使用されるデータをキャッシュする
