@@ -31,3 +31,11 @@ AWSネットワークを介して、同じリージョンや異なるリージ�
 ・DirectConnect
 
 VPCとオンプレミスのデータセンター間の接続を提供する
+
+・ElasticCacheのCurrConnections
+
+クライアントの接続数(リードレプリカの接続を除く)。
+
+・ELBのSpilloverCount
+
+拒否されたリクエストの数。リクエストの最大がSurgeQueueLengthを超えるとカウントする。
