@@ -1,3 +1,7 @@
+・AutoScaling
+
+踏み台ホストを含むシステムを設計していて、人間の介入差しに可用性を持たせるには、AutoScalingグループで最小と最大を1に設定して常時1台起動するようにする。
+
 ## #4
 
 ・EBS-Backed AMI, Instance Store-Backed AMI
