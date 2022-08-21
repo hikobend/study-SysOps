@@ -1,3 +1,7 @@
+・DMS
+
+データベースを短期間で安全にAWSに移行できる。移行中でもソースデータベースは完全に利用可能な状態に保たれる。
+
 ・AlarmNotification
 
 CloudWatchからのアラームを受信するが、AutoScalingポリシーは実行しない
