@@ -1,6 +1,6 @@
 ・CPUUtilization
 
-AutoScalingの組み込みメトリクスに焦点を当て、スケーリングする。
+AutoScalingグループのスケーリングポリシーを制御する。
 
 ・S3 1 ゾーン　低頻度アクセス
 
