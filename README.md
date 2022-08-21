@@ -1,3 +1,7 @@
+・EBSスナップショット
+
+スナップショットは非同期で行う。
+
 ・DLM
 
 DataLifesysleManagerはEBSスナップショットとEBS-Backed AMIの作成・保持・削除を自動化。
