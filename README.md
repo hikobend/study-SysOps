@@ -1,3 +1,7 @@
+・CloudWatchで日時確認
+
+グラフの確認で日時開始・終了時間で指定するためAbsoluteタブを使う。
+
 ・ELBの監視
 
 CloudWatchメトリクス、ELBアクセスログ、CloudTrailログが役立つ。ELBのヘルスチェックはELBに接続されているインスタンスの状態をチェックするため、ELBの監査には役立たない。
