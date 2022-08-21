@@ -1,3 +1,5 @@
+・Instance Store-Backed Windows AMIからEBS-Backed Windows AMIへの変換はできない。Linuxベースならばできる。
+
 ・AZでのインスタンスの起動
 
 AZを設定しないと、自動的に選択される。これにより最適なAZを選択できる。
