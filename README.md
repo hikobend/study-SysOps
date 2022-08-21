@@ -1,3 +1,7 @@
+・Elastic BeanstalkログをS3に保存
+
+Elastic Beanstalkの環境構成の設定でS3へのログファイルのローテーションを有効にすることでS3にログを保存できる。
+
 ・EC2インスタンス容量の不足
 
 InsufficientInstanceCapacityとエラーが発生すると、リクエストに対応するために必要な十分なオンデマンドキャパシティがない。
