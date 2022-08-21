@@ -1,3 +1,7 @@
+・ELBの監視
+
+CloudWatchメトリクス、ELBアクセスログ、CloudTrailログが役立つ。ELBのヘルスチェックはELBに接続されているインスタンスの状態をチェックするため、ELBの監査には役立たない。
+
 ・ApproximateNumberOfMessageVisible
 
 SQSに基づくスケーリングができる。特定のレベルに達したときは常にEC2インスタンスを拡大するポリシーを作成できる。変化する条件に応じてスケーリングするために役立つ。
