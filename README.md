@@ -1,3 +1,7 @@
+・CloudFormation
+
+リソースが削除されないようにするために、DeletionPolicyを設定できる。
+
 ・CloudFormationのNoEcho
 
 NoEchoパラメータは機密データのパラメータ隠すのに役立つ。アスタリスクで表示される。
