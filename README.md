@@ -1,3 +1,7 @@
+・SQS
+
+SQSはAutoScalingアクションをトリガーできない。
+
 ・CloudWatchLogs
 
 ログの収集、保存、分析に役立つ。RC2インスタンス・CloudTrail・Route53・その他のソースログファイルの監視、保存、アクセスができる。
