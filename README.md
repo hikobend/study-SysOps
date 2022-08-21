@@ -1,3 +1,9 @@
+・EC2インスタンスの削除保護
+
+DisableApiTerminationを使い、EC2インスタンスで削除保護を有効にする。
+
+## #22
+
 ・Billing and Cost Management
 
 AWSの請求の支払い、使用量のモニタリング、コストの計上にに使用するサービス。コスト配分タグを使用してAWSのコストを詳細レベルで追跡できる。
