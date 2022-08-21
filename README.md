@@ -1,3 +1,7 @@
+・Proxy Protocolを有効にする
+
+ロードバランサーが、Proxy Protocolが有効になっているプロキシサーバーの背後にないことを確認する。ロードバランサーが、Proxy Protocolが有効になっているプロキシサーバーの背後にないことを確認する。
+
 ・SNSでサポートされているプロトコル
 
 SQS、HTTP/s、Email、SMS、Lambda。
