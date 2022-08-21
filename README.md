@@ -1,3 +1,9 @@
+・サーバ側の暗号化(SSE-C)を使用したデータの保護
+
+ユーザーが暗号化キーを主導でローテーションする必要がある。
+
+## #17
+
 ・Instance Store-Backed Windows AMIからEBS-Backed Windows AMIへの変換はできない。Linuxベースならばできる。
 
 ・AZでのインスタンスの起動
