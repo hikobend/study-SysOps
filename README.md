@@ -1,3 +1,7 @@
+・DLM
+
+DataLifesysleManagerはEBSスナップショットとEBS-Backed AMIの作成・保持・削除を自動化。
+
 ・エフィラメントポート
 
 ポート番号1024-65535までの範囲。
