@@ -1,3 +1,9 @@
+・t2.nano AMI ID
+
+Lambdaはどのリージョンでもインスタンスを起動できる。t2.nanoのAMI IDはリージョンごとに変わる必要があるため更新する必要がある。
+
+## #53
+
 ・CloudWatch Logs
 
 EC2インスタンス、CloudTrail、Route53、およびその他のソースのログファイルの監視、保存、アクセスできる。その後、CloudWatchLogsから、関連するログデータを取得できる
