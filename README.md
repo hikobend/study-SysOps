@@ -1,3 +1,7 @@
+・SystemMananger
+
+CloudFormationのテンプレート内のEC2インスタンスのAMIのIDを更新するとき、SystemManangerパラメータストアを用いることで、最新のWindowsAMIを取得してテンプレートがその時点の最新のAMI IDに更新される。
+
 ## #38
 
 ・変更セット
