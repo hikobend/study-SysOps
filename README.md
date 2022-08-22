@@ -1,4 +1,10 @@
-・
+・CreateStack
+
+スタック作成に失敗した時にスタックのロールバックを無効にする。
+
+・EnableTerminationProtection
+
+スタックを誤って削除されるのを防ぐ・
 
 ## #39
 
