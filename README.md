@@ -1,3 +1,7 @@
+・スティッキーセッション
+
+ロードバランサーがユーザーセッション情報を特定のターゲットにバインドするようにする。Cookie転送用にALBとCloudFrontに対して有効にする必要がある
+
 ・InstanceLimitExceed
 
 リージョン内に起動できるインスタンス数の制限に達した場合、InstanceLimitExceedエラーが発生する。
