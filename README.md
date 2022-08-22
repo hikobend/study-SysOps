@@ -1,3 +1,7 @@
+・SurgeQueueLength
+
+正常なインスタンスへのルーティングを保留中のリクエストか接続の合計数。キューがいっぱいになると拒否されて、SplilloverCloutがカウントされる。
+
 ・SystemManangerPatchManager
 
 セキュリティ関連の更新パッチをマネージドインスタンスに適用するプロセスを自動化する。
