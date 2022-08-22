@@ -1,3 +1,7 @@
+・CodePipeline
+
+CI/CDツール。
+
 ・カスタムリソース
 
 ユーザーがwスタックを作成・更新・削除するたびにCloudFormationを実行する。Node.jsとPython関数の場合、テンプレートにインラインで関数コードを指定できる。
