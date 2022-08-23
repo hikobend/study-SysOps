@@ -1,3 +1,7 @@
+・EventBridgeとLambda
+
+EventBridgeでEC2インスタンスの状態をチェックして、Lambda関数にトリガーできる
+
 ## #60
 
 ・SAMLの設定方法
