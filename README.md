@@ -1,3 +1,7 @@
+・restricted-common-ports
+
+Configを使用してAWSリソースの設定内容を評価する。
+
 ・CloudWatchエージェント
 
 インスタンスの削除はできない。
