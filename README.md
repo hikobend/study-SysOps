@@ -1,3 +1,7 @@
+・ModifyCacheClusterAPI
+
+ElasticcacheクラスタはModifyCacheClusterAPIを使用して、CacheTypeを指定することにより、多くのメモリを備えたより大きなインスタンスタイプに変更できる。
+
 ・EC2Rescue
 
 オペレーションシステムレベルの問題をトラブルシューティングでできるため、リモートデスクトッププロトコルへ接続できない問題の解決に役立つ。
