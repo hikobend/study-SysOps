@@ -1,3 +1,7 @@
+・EvaluateTargetHealthCheck
+
+値をtrueに設定することで、リージョン全体がダウンした時にRoute53が他のELBにリクエストをルーティングする。
+
 ・SystemMananger
 
 サーバーの設定、アンチウイルス定義、ファイアーフォール設定など詳細な設定内容を制御できる。
