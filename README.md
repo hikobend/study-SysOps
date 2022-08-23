@@ -1,3 +1,7 @@
+・CloudFormationのInit
+
+テンプレートメタデータを読み取り、それに応じて初期化スクリプトなど操作を行える。
+
 ・EvaluateTargetHealthCheck
 
 値をtrueに設定することで、リージョン全体がダウンした時にRoute53が他のELBにリクエストをルーティングする。
