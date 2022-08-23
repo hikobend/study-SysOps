@@ -16,7 +16,7 @@ ElasticcacheクラスタはModifyCacheClusterAPIを使用して、CacheTypeを�
 
 ・CPU使用率アラームの設定
 
-CPU使用率に基づいてメールを送信するアラームをテストするには、aet-alarm-stateコマンドを使用してアラーム状態の変更を強制する。
+CPU使用率に基づいてメールを送信するアラームをテストするには、-alarm-stateコマンドを使用してアラーム状態の変更を強制する。
 
 ・UpdateStackAPI
 
