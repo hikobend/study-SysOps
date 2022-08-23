@@ -1,3 +1,9 @@
+・SAMLの設定方法
+
+IAMで、1つ以上のIAMロールを作成する。IAMロールの信頼ポリシーで、SAMLプロバイダーをプリンシパルをして設定。会社のIDプロバイダー(IdP)で、ユーザーをIAMロールにマップするアサーションを定義。
+
+プリンシパルとアサーション
+
 ・ModifyCacheClusterAPI
 
 ElasticcacheクラスタはModifyCacheClusterAPIを使用して、CacheTypeを指定することにより、多くのメモリを備えたより大きなインスタンスタイプに変更できる。
