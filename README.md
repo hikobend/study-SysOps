@@ -1,3 +1,7 @@
+・InstanceLimitExceeded
+
+リージョンで起動できるインスタンス数の制限に達している場合に作動。インスタンス制限の引き上げは、リージョンごとにリクエストする必要がある。
+
 ## #65
 
 ・ServiceCatalogTagOption
