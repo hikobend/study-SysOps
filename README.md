@@ -1,3 +1,7 @@
+・OnFailure
+
+CloudFormationのデフォルトの動作をオーバーライドしてスタックをロールバックするのに役立つ。
+
 ・アクセス権付与
 
 オンプレミスのActiveDirectoryユーザーにAWSマネジメントコンソールへのアクセス権を付与をするためには、DirectConnectかVPNトンネルを介してオンプレミスに接続。AD ConnectorかDirectoryServiceを使用する。
