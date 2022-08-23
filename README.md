@@ -2,7 +2,7 @@
 
 ・インスタンスの復旧
 
-インスタンスタイプがACMRTのいずれか。テナント属性がdefaultかdedicated。EBSボリュームのみ。
+インスタンスタイプがMARCTのいずれか。テナント属性がdefaultかdedicated。EBSボリュームのみ。
 
 ・CloudFrontエッジキャッシュから提供されるリクエストの比率の向上
 
