@@ -1,3 +1,7 @@
+・DeletionPolicy
+
+CloudFormationは削除前にDBインスタンスのスナップショットを作成する。
+
 ## #58
 
 ・S3バケット
