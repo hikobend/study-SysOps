@@ -1,3 +1,7 @@
+・CloudWatchエージェント
+
+インスタンスの削除はできない。
+
 ・EventBridgeとLambda
 
 EventBridgeでEC2インスタンスの状態をチェックして、Lambda関数にトリガーできる
