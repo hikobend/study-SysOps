@@ -1,4 +1,6 @@
+・SystemManangerエージェント
 
+SystemManangerのリクエストを処理し、リクエストに指定されたとおりにマシンを設定する。
 
 ・HealtyHostCount
 
