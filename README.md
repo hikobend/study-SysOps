@@ -1,3 +1,7 @@
+・ElasticCacheforRedis
+
+ElasticCacheforRedisクラスターのオンラインスケールダウンが、可用性を維持したままコスト効率の良い方法を実行できる。
+
 ・EC2 Image Builder
 
 起動時間を短縮し、インスタンスの価養成を高速化するために使用できるカスタムのビルド済みAMIを作成できる。
