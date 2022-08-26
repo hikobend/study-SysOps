@@ -1,3 +1,7 @@
+・TrustedAdvisor
+
+全てのチェックメトリクスをCloudWatchに発行する。CloudWatchEventsを使用して、制限に達しそうになった時アラートを設定できる。
+
 ・IAMロール
 
 EC2からSQSへの安全なアクセスを提供するために、EC2インスタンスでIAMロールを使用されることが推奨される。
