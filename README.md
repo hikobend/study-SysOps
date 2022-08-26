@@ -1,3 +1,7 @@
+・ログ
+
+ALBのアクセスログとCloudFrontのアクセスログのみがHTTPレイヤー7ステータスコードをキャプチャする。
+
 ・ElasticCacheforRedis
 
 ElasticCacheforRedisクラスターのオンラインスケールダウンが、可用性を維持したままコスト効率の良い方法を実行できる。
