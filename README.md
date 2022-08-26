@@ -1,3 +1,9 @@
+## #92
+
+・CreateImage
+
+Lambda関数は、EventBridgeルールwお使用してトリガーされたrebootパラメータを有効にしてAMIをビルドできる。
+
 ・ログ
 
 ALBのアクセスログとCloudFrontのアクセスログのみがHTTPレイヤー7ステータスコードをキャプチャする。
