@@ -1,3 +1,9 @@
+・Mappingセクション
+
+リージョン固有のAMIIDをマッピングし、CloudFormationテンプレートが全てのリージョンで動作できる。
+
+## #90
+
 ・TrustedAdvisor
 
 全てのチェックメトリクスをCloudWatchに発行する。CloudWatchEventsを使用して、制限に達しそうになった時アラートを設定できる。
