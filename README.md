@@ -1,4 +1,6 @@
+・インスタンスの復旧
 
+CloudWatchアラームは。StatusCheckFailed_Systemメトリクスを使用して障害のあるEC2インスタンスを回復するために使用できる。SNSを通じて通知を送信できる。
 
 ・FSx for Windows File Server
 
