@@ -1,3 +1,7 @@
+・RDS DBインスタンスの高可用性キャッシュサービス
+
+ElasticCache for RedisマルチAZはRDS DBインスタンスに高可用性なキャッシュソリューションを提供する。
+
 ## #92
 
 ・CreateImage
