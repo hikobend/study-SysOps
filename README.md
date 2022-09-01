@@ -1,3 +1,7 @@
+・UpdatePolicy
+
+AutoScalingグループに含まれるインスタンスに含まれる新しいAMIに置き換えることができる。
+
 ・TagOption
 
 起動中にタグを追加できる。
