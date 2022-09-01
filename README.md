@@ -1,3 +1,7 @@
+・EnableTerminationProtection
+
+スタックが誤って削除するのを防ぐ
+
 ・ドリフト検出
 
 CloudFormation管理外で設定変更されたスタックリソースを識別できる。
