@@ -1,3 +1,7 @@
+・SystemMananger
+
+設定の一貫性を維持
+
 ・LambdaとEventBridge
 
 スナップショットライフサイクルの監視
